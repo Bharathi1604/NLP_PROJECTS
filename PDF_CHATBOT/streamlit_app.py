@@ -4,7 +4,7 @@ import time
 import asyncio
 import uuid
 
-st.title("Worktual CAI with Streaming")
+st.title("CAI with Streaming")
 
 # Initialize chat history
 if "messages" not in st.session_state:
